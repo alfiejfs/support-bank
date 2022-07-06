@@ -1,4 +1,4 @@
-import json, os, logging, datetime
+import json, os, logging, datetime, csv
 import xml.etree.ElementTree as et
 
 
@@ -13,6 +13,21 @@ class Transaction:
     def display(self):
         print("Date: " + self.date.strftime("%m/%d/%Y") + " | From: " + self.person_from + " | To: "
               + self.person_to + " | Narrative: " + self.narrative + " | Amount: " + str(round(self.amount, 2)))
+
+    def get_date(self):
+        return self.date
+
+    def get_from(self):
+        return self.person_from
+
+    def get_to(self):
+        return self.person_to
+
+    def get_narrative(self):
+        return self.narrative
+
+    def get_amount(self):
+        return self.amount
 
 
 def read_transactions_csv(file) -> list:
@@ -81,6 +96,7 @@ def read_transactions_xml(file) -> list:
 
     return transactions
 
+
 def load_transactions(file_name):
     if not os.path.exists("data/" + file_name):
         print("File " + file_name + "could not be found.")
@@ -101,6 +117,7 @@ def load_transactions(file_name):
 
     return transactions
 
+
 def run():
     logging.basicConfig(filename='SupportBank.log', filemode='w', level=logging.DEBUG)
 
@@ -112,12 +129,11 @@ def run():
             file_name = command[12:]
             load_transactions(file_name)
 
-        elif command.startswith("Export "):
+        elif command.startswith("Export File"):
             file_name = command[12:]
             transactions = load_transactions(file_name)
             new_file_name = input("What will the file be called? ")
-            format = input("What is the file format? ")
-            convert_to_csv(transactions, new_file_name, format)
+            export(transactions, new_file_name)
 
         elif command.startswith("List "):
             specifier = command[5:]  # Remove the pre-pending "List "
@@ -129,18 +145,19 @@ def run():
         else:
             print("Please enter a valid command")
 
-def convert_to_csv(transactions, file, file_name):
-    with open("data/" + file_name, 'w+') as new_file:
-        new_file.writelines("Date,From,To,Narrative,Amount")
-        for t in
 
+def export(transactions, file_name):
+    with open("data/" + file_name + ".csv", 'w+', newline="") as new_file:
+        new_file.write("Date,From,To,Narrative,Amount\n")
+        transaction_writer = csv.writer(new_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        for t in transactions:
+            transaction_writer.writerow([
+                str(t.get_date()),
+                t.get_from(),
+                t.get_to(),
+                t.get_narrative(),
+                t.get_amount()])
 
-
-def convert_to_json(file, file_name):
-    pass
-
-def convert_to_xml(file, file_name):
-    pass
 
 def print_all(transactions):
     overall_spending = get_all_balances(transactions)
