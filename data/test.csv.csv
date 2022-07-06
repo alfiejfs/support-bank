@@ -1,0 +1,150 @@
+Date,From,To,Narrative,Amount
+2012-01-03 00:00:00,Gergana I,Jon A,Snooker Night,9.22
+2012-01-04 00:00:00,Sam N,Dan W,Coffee,6.98
+2012-01-08 00:00:00,Stephen S,Sarah T,Lunch,10.67
+2012-01-09 00:00:00,Rob S,Sarah T,Misc Morale,7.19
+2012-01-11 00:00:00,Tim L,Chris W,Fantasy Football,10.73
+2012-01-14 00:00:00,Tim L,Rob S,Automated Testing Services,10.1
+2012-01-16 00:00:00,Sarah T,Sam N,Beers,1.79
+2012-01-19 00:00:00,Dan W,Todd,Beers,11.1
+2012-01-20 00:00:00,Chris W,Ben B,Coffee,10.89
+2012-01-22 00:00:00,Chris W,Tim L,Pokemon Training,3.12
+2012-01-26 00:00:00,Rob S,Tim L,Snooker Night,2.29
+2012-01-27 00:00:00,Chris W,Rob S,Spline Reticulation,7.32
+2012-01-30 00:00:00,Stephen S,Gergana I,Stationary Items,6.1
+2012-01-31 00:00:00,Stephen S,Todd,Lunch,7.72
+2012-02-02 00:00:00,Stephen S,Laura B,Misc Morale,5.2
+2012-02-04 00:00:00,Sam N,Rob S,Pokemon Training,4.67
+2012-02-07 00:00:00,Ben B,Chris W,Coffee,11.72
+2012-02-11 00:00:00,Rob S,Jon A,Pokemon Training,6.45
+2012-02-15 00:00:00,Todd,Ben B,Sandcastle Help,8.46
+2012-02-18 00:00:00,Laura B,Todd,Lunch,10.36
+2012-02-22 00:00:00,Chris W,Stephen S,Pokemon Training,3.88
+2012-02-25 00:00:00,Sam N,Dan W,Beers,9.81
+2012-02-26 00:00:00,Gergana I,Rob S,Lunch,3.67
+2012-02-28 00:00:00,Dan W,Tim L,Lunch,0.63
+2012-03-03 00:00:00,Tim L,Ben B,Jenkins Fees,2.61
+2012-03-05 00:00:00,Rob S,Ben B,Coffee,4.85
+2012-03-09 00:00:00,Stephen S,Gergana I,Lunch,3.14
+2012-03-13 00:00:00,Gergana I,Chris W,Arcade Social,9.01
+2012-03-14 00:00:00,Gergana I,Rob S,Lego Assistance,6.33
+2012-03-18 00:00:00,Dan W,Stephen S,Misc Morale,11.84
+2012-03-20 00:00:00,Jon A,Sarah T,Spline Reticulation,9.1
+2012-03-23 00:00:00,Stephen S,Dan W,Coffee,8.41
+2012-03-27 00:00:00,Stephen S,Tim L,Lunch,2.38
+2012-03-31 00:00:00,Gergana I,Laura B,Snooker Night,1.9
+2012-04-01 00:00:00,Sarah T,Gergana I,Sandcastle Help,1.89
+2012-04-02 00:00:00,Laura B,Dan W,Stationary Items,3.8
+2012-04-04 00:00:00,Dan W,Chris W,Fantasy Football,11.63
+2012-04-06 00:00:00,Dan W,Todd,Misc Morale,7.32
+2012-04-07 00:00:00,Sam N,Chris W,Audit and Other Financial Services,6.06
+2012-04-10 00:00:00,Tim L,Chris W,Arcade Social,11.17
+2012-04-12 00:00:00,Sarah T,Dan W,Lego Assistance,5.49
+2012-04-14 00:00:00,Gergana I,Jon A,Git-Fu Rendered,0.8
+2012-04-15 00:00:00,Sam N,Todd,Lunch,5.43
+2012-04-16 00:00:00,Laura B,Dan W,Lunch,10.46
+2012-04-18 00:00:00,Laura B,Rob S,Beers,11.7
+2012-04-22 00:00:00,Stephen S,Ben B,Pokemon Training,11.09
+2012-04-25 00:00:00,Todd,Dan W,Audit and Other Financial Services,8.44
+2012-04-29 00:00:00,Laura B,Sam N,Fantasy Football,0.93
+2012-05-01 00:00:00,Laura B,Ben B,Jenkins Fees,8.17
+2012-05-02 00:00:00,Jon A,Tim L,Automated Testing Services,4.79
+2012-05-04 00:00:00,Sarah T,Laura B,Snooker Night,8.24
+2012-05-08 00:00:00,Gergana I,Ben B,Coffee,9.17
+2012-05-11 00:00:00,Todd,Sam N,Pokemon Training,11.4
+2012-05-12 00:00:00,Sam N,Dan W,Sandbox Help,1.55
+2012-05-15 00:00:00,Chris W,Rob S,Lunch,4.3
+2012-05-19 00:00:00,Rob S,Sam N,Automated Testing Services,8.6
+2012-05-23 00:00:00,Todd,Chris W,Fantasy Football,10.88
+2012-05-27 00:00:00,Sarah T,Chris W,Misc Morale,5.19
+2012-05-30 00:00:00,Tim L,Ben B,White Water Rafting,10.73
+2012-06-02 00:00:00,Gergana I,Tim L,Arcade Social,10.73
+2012-06-03 00:00:00,Chris W,Jon A,Spline Reticulation,10.84
+2012-06-04 00:00:00,Laura B,Jon A,Coffee,3.51
+2012-06-06 00:00:00,Sarah T,Dan W,Automated Testing Services,1.78
+2012-06-09 00:00:00,Dan W,Stephen S,Lunch,3.11
+2012-06-13 00:00:00,Sarah T,Chris W,Lego Assistance,3.75
+2012-06-16 00:00:00,Todd,Stephen S,Misc Morale,4.15
+2012-06-20 00:00:00,Laura B,Chris W,Stationary Items,9.43
+2012-06-21 00:00:00,Ben B,Chris W,Golf Bets,1.45
+2012-06-23 00:00:00,Laura B,Sam N,Lunch,8.71
+2012-06-24 00:00:00,Stephen S,Todd,Lunch,4.8
+2012-06-27 00:00:00,Dan W,Jon A,Misc Morale,6.57
+2012-06-29 00:00:00,Chris W,Stephen S,Sandcastle Help,10.78
+2012-07-01 00:00:00,Laura B,Jon A,Poker Winnings,0.52
+2012-07-03 00:00:00,Stephen S,Tim L,Pokemon Training,10.86
+2012-07-07 00:00:00,Jon A,Dan W,Snooker Night,7.98
+2012-07-08 00:00:00,Sarah T,Ben B,Jenkins Fees,7.6
+2012-07-09 00:00:00,Laura B,Rob S,Git-Fu Rendered,7.73
+2012-07-11 00:00:00,Tim L,Ben B,Misc Morale,9.1
+2012-07-15 00:00:00,Jon A,Laura B,Golf Bets,1.2
+2012-07-16 00:00:00,Tim L,Todd,Pokemon Training,3.57
+2012-07-18 00:00:00,Ben B,Chris W,Services Rendered,1.33
+2012-07-20 00:00:00,Stephen S,Jon A,Coffee,8.55
+2012-07-24 00:00:00,Jon A,Rob S,Lego Assistance,10.01
+2012-07-25 00:00:00,Jon A,Sam N,Beers,5.83
+2012-07-26 00:00:00,Rob S,Todd,Coffee,10.52
+2012-07-28 00:00:00,Todd,Dan W,Jenkins Fees,11.59
+2012-07-29 00:00:00,Jon A,Chris W,Coffee,9.47
+2012-08-01 00:00:00,Rob S,Sam N,Misc Morale,4.34
+2012-08-05 00:00:00,Stephen S,Sam N,Lunch,10.41
+2012-08-07 00:00:00,Tim L,Sam N,Sandbox Help,2.12
+2012-08-11 00:00:00,Laura B,Dan W,Snooker Night,1.74
+2012-08-12 00:00:00,Chris W,Laura B,Misc Morale,1.92
+2012-08-13 00:00:00,Chris W,Dan W,Rails Consultancy,3.2
+2012-08-14 00:00:00,Chris W,Todd,Beers,5.38
+2012-08-15 00:00:00,Todd,Tim L,Automated Testing Services,8.57
+2012-08-16 00:00:00,Sarah T,Stephen S,White Water Rafting,8.85
+2012-08-20 00:00:00,Laura B,Stephen S,Misc Morale,11.22
+2012-08-23 00:00:00,Dan W,Gergana I,Coffee,0.58
+2012-08-26 00:00:00,Sarah T,Rob S,Audit and Other Financial Services,10.69
+2012-08-28 00:00:00,Sarah T,Dan W,Coffee,7.72
+2012-08-29 00:00:00,Tim L,Sam N,Services Rendered,9.11
+2012-09-01 00:00:00,Tim L,Jon A,Fantasy Football,8.65
+2012-09-04 00:00:00,Sarah T,Dan W,Coffee,8.36
+2012-09-05 00:00:00,Todd,Sam N,Snooker Night,3.57
+2012-09-06 00:00:00,Dan W,Tim L,Pokemon Training,10.2
+2012-09-09 00:00:00,Stephen S,Chris W,Jenkins Fees,7.89
+2012-09-13 00:00:00,Sarah T,Chris W,Lunch,4.41
+2012-09-15 00:00:00,Todd,Tim L,Git-Fu Rendered,10.89
+2012-09-19 00:00:00,Stephen S,Jon A,Lunch,0.64
+2012-09-22 00:00:00,Sam N,Jon A,Beers,10.25
+2012-09-24 00:00:00,Rob S,Gergana I,Sandcastle Help,4.73
+2012-09-28 00:00:00,Todd,Chris W,Golf Bets,11.83
+2012-10-01 00:00:00,Tim L,Stephen S,Lunch,4.42
+2012-10-04 00:00:00,Jon A,Ben B,Coffee,3.66
+2012-10-07 00:00:00,Laura B,Todd,Lunch,10.25
+2012-10-11 00:00:00,Chris W,Chris W,Lunch,2.48
+2012-10-14 00:00:00,Laura B,Dan W,Lunch,10.62
+2012-10-18 00:00:00,Jon A,Gergana I,Misc Morale,9.01
+2012-10-19 00:00:00,Ben B,Laura B,Audit and Other Financial Services,10.6
+2012-10-20 00:00:00,Todd,Dan W,Beers,4.34
+2012-10-23 00:00:00,Todd,Ben B,Sandcastle Help,10.4
+2012-10-24 00:00:00,Sam N,Laura B,Coffee,2.13
+2012-10-27 00:00:00,Dan W,Sam N,Beers,6.22
+2012-10-29 00:00:00,Gergana I,Chris W,Coffee,9.29
+2012-10-31 00:00:00,Dan W,Sam N,Coffee,11.07
+2012-11-04 00:00:00,Ben B,Todd,Coffee,7.83
+2012-11-05 00:00:00,Sarah T,Tim L,Golf Bets,5.18
+2012-11-07 00:00:00,Sam N,Sarah T,Beers,6.66
+2012-11-11 00:00:00,Tim L,Sarah T,Pokemon Training,3.74
+2012-11-15 00:00:00,Tim L,Dan W,Coffee,11.93
+2012-11-17 00:00:00,Jon A,Tim L,Lunch,2.99
+2012-11-18 00:00:00,Stephen S,Chris W,Automated Testing Services,5.95
+2012-11-21 00:00:00,Dan W,Rob S,Coffee,7.08
+2012-11-24 00:00:00,Rob S,Ben B,Git-Fu Rendered,6.63
+2012-11-25 00:00:00,Dan W,Gergana I,Lego Assistance,0.92
+2012-11-28 00:00:00,Rob S,Todd,Coffee,1.49
+2012-11-29 00:00:00,Chris W,Todd,Services Rendered,10.78
+2012-12-02 00:00:00,Chris W,Sarah T,Git-Fu Rendered,4.53
+2012-12-03 00:00:00,Gergana I,Sarah T,Misc Morale,2.92
+2012-12-06 00:00:00,Jon A,Tim L,Jenkins Fees,7.88
+2012-12-10 00:00:00,Tim L,Sarah T,Coffee,9.31
+2012-12-13 00:00:00,Sam N,Laura B,Rails Consultancy,2.44
+2012-12-14 00:00:00,Sarah T,Jon A,Stationary Items,8.89
+2012-12-18 00:00:00,Tim L,Stephen S,Spline Reticulation,8.73
+2012-12-20 00:00:00,Sarah T,Laura B,Lunch,10.28
+2012-12-24 00:00:00,Stephen S,Sarah T,Lego Assistance,6.07
+2012-12-28 00:00:00,Tim L,Jon A,Coffee,6.28
+2012-12-30 00:00:00,Rob S,Chris W,Automated Testing Services,10.98
+2013-01-01 00:00:00,Tim L,Todd,Services Rendered,0.77
