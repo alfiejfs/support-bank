@@ -129,7 +129,7 @@ def run():
             file_name = command[12:]
             load_transactions(file_name)
 
-        elif command.startswith("Export File"):
+        elif command.startswith("Export File "):
             file_name = command[12:]
             transactions = load_transactions(file_name)
             new_file_name = input("What will the file be called? ")
@@ -150,13 +150,13 @@ def export(transactions, file_name):
     with open("data/" + file_name + ".csv", 'w+', newline="") as new_file:
         new_file.write("Date,From,To,Narrative,Amount\n")
         transaction_writer = csv.writer(new_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        for t in transactions:
+        for transaction in transactions:
             transaction_writer.writerow([
-                str(t.get_date()),
-                t.get_from(),
-                t.get_to(),
-                t.get_narrative(),
-                t.get_amount()])
+                str(transaction.get_date()),
+                transaction.get_from(),
+                transaction.get_to(),
+                transaction.get_narrative(),
+                transaction.get_amount()])
 
 
 def print_all(transactions):
